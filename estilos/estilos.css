@@ -3,3 +3,13 @@ h1{
     text-align: center;
     text-overflow: ellipsis;
 }
+.container{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid rgb(20, 20, 18);
+margin: 0 auto;
+text-align: left;
+}
+.cont{
+
+}
